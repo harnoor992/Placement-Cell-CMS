@@ -1,0 +1,3 @@
+<?php
+ $tablepre="zznoor_";
+?>
